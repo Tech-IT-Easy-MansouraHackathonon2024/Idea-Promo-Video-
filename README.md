@@ -2,4 +2,4 @@
 
 # Idea Promo Video
 
-  <img src="GDG_FINAL.mp4" alt="Project Structure" width="400" height="300"/>
+<a href="https://drive.google.com/file/d/106gltHMi-acjVkQvfgf2Y0vlFIZORcAz/view?usp=sharing">  Idea Promo Video Link</a>
